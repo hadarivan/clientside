@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css?family=Courgette');
+
+.card-body {
+    text-align: center;
+    height: 260px !important;
+}
+.card {
+    float: left;
+    margin-left:30px;
+}
+.nav {
+    color:black;
+    margin-left:20px;
+    font-family: 'Courgette', cursive;
+    font-size:30px;
+}
+.nav:hover {
+    text-decoration: none;
+    color:black;
+}
+.welcome h6{
+    margin-top:10px;
+    float:right;
+    margin-right:5px;
+}
+.welcome a {
+    color:black;
+    margin-left:5px;
+}
+.welcome a:hover {
+    text-decoration: none;
+    color:black;
+}
+.welcome {
+    height:40px;
+    background-color:#f2f2f2;
+}
+.navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-color:white !important;
+}
+.navbar.navbar-expand-lg.navbar-light.bg-light img {
+    margin-top:20px;
+}
+.logo {
+    margin-left:180px;
+}
+.productList {
+    width:1000px;
+    margin:0 auto;
+}
+.productList h3 {
+    text-align: center;
+}
+.filter {
+    margin-left: 130px;
+    margin-top:50px;
+}
+label { 
+    margin-left:10px;
+    float:left;
+    font-family: 'Courgette', cursive;
+}
+input {
+    border-radius: 15px ;
+    border-style:solid;
+    border-width: thin;
+    width:170px;
+    padding-left:5px;
+}
+.btn.btn-info {
+    border-radius: 60px;
+    width:100px;
+    height:28px;
+}
+.btn {
+    padding:0px !important;
+} 
+h3, h5 {
+    font-family: 'Courgette', cursive;
+}
+.nav:nth-child(2) {
+    margin-left:50px;
+}
